@@ -43,7 +43,7 @@ To use the files and notebooks in this repository, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   (https://github.com/HarishAbhishek006/Data-science-assignment-excelr.git)
+   (https://github.com/Gokul-S-9656/Data-Science-Assignment-excelr.git)
    ```
 2. Ensure you have Python installed on your machine (preferably version 3.6 or above).
 
